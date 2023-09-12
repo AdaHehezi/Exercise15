@@ -1,0 +1,20 @@
+{
+  "name": "wanderlustworldswebsite",
+  "version": "1.0.0",
+  "description": "website application",
+  "main": "index.html",
+  "scripts": {
+    "test": "my ecommwebsite",
+    "start":"lite-server"
+  },
+  "keywords": [
+    "travel",
+    "discover",
+    "explore"
+  ],
+  "author": "Ada He",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
